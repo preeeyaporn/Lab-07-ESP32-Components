@@ -26,4 +26,4 @@ lab7-3_esp32_Component/
 ├── build/
 └── README.md
 
-![alt text](image.png)
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/10ce7597-2227-4107-ab36-2acc8386fad0" />
