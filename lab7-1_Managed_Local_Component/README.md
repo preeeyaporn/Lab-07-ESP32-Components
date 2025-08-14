@@ -6,5 +6,9 @@
 
 ## สรุปคำสั่งที่ใช้ และผลลัพธ์ที่ได้
 
-<เขียนตอบในนี้>
-![alt text](image-1.png)
+```c
+
+```
+
+### ผลลัพท์ที่ได้
+<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/8db584e8-c2cb-48f7-a901-30ab913cbb2a" />
